@@ -53,3 +53,7 @@ th {
 td {
   background-color: inherit;
 }
+img {
+  border: 2px solid #000000;
+  border-radius: 100px;
+}
