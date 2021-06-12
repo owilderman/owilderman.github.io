@@ -1,2 +1,2 @@
 # owilderman.github.io
-So this is my personal website! For employers or custom code orders!
+So this is my personal website! For employers, readers, or anyone who is interested!
